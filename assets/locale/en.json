@@ -1,0 +1,19 @@
+{
+    "box_office": "Resultados",
+    "now_playing": "Reproducidas",
+    "my_favorite": "Mis Favoritos",
+    "open_date": "Abrir",
+    "summary": "Categorias",
+    "director": "Director",
+    "casts": "Casts",
+    "biography": "Biografia",
+    "known_for": "Known for",
+    "genre": "Genero",
+    "favorite_empty_message": "Lista de favoritos vacia",
+    "no_information": "No hay información",
+    "confirm": "Confirmar",
+    "add_favorite_message": "Agregar a favoritos.",
+    "remove_favorite_message": "Removida de favoritos",
+    "search_movie_message": "Nombre de pelicula",
+    "not_find_movie_message": "No encontrado"
+}
